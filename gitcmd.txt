@@ -1,0 +1,20 @@
+
+$git config
+
+$git init
+
+$git branch Test
+
+$git add Exam
+
+$git commit -m"Hello"
+
+$git push origin Master
+
+$git pull origin Master
+
+$git checkout Test
+
+$git merge Test
+
+$ 
